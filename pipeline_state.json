@@ -1,1 +1,5 @@
-{"ods": "done", "dwd": "running", "dws": "pending"}
+{
+  "ods": "done",
+  "dwd": "done",
+  "dws": "done"
+}

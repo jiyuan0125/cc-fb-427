@@ -1,0 +1,4 @@
+dwd_rows 3290
+dws_rows 901
+reversals 58
+notes day按post_time(记账时间)的日期归属;冲正按自身借贷方向计入cnt与net_amt;rev_of在月包中找不到的孤儿冲正共6笔,仍保留并计入聚合
